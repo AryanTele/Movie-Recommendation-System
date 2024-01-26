@@ -14,7 +14,7 @@ This project focuses on the development of a content-based recommendation system
 ![Recommendation Model ](https://github.com/AryanTele/Movie-Recommendation-System/assets/58328909/25217583-56dc-4aae-a86f-df9a29ce3e6c)
 
 ### 4. Methodology
-    - 4 .1 Dataset
+    - 4.1 Dataset
     The TMDB API provides a rich dataset with details about various movies, including titles, 
     synopses, genres, and more. The dataset is preprocessed to extract relevant textual features 
     for the recommendation system.
